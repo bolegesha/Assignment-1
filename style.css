@@ -1,0 +1,66 @@
+body {
+    background-color: #DEDEDE;
+    font-family: 'Rasa', serif;
+    font-weight: 600;
+
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+/* HEADER */
+
+.header {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 400;
+    font-size: 60px;
+
+    color: #FFA011;
+    text-align: center;
+
+    margin: 0 auto;
+}
+
+
+/* INTRO */
+
+.intro {
+    height: 1024px;
+
+    padding-top: 30px;
+
+    background-image: url("img/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* H1 */
+
+.h1 {
+    font-family: 'Rasa', serif;
+    font-weight: 600;
+    font-size: 45px;
+    color: #FFA011;
+    
+    padding: 87px;
+    
+}
+
+
+
+/* GODS */
+ .gods {
+     width: 1256px;
+     overflow: hidden;
+     height: 400px;
+     display: flex;
+
+ }
+ .gods a {
+     width: 100px;
+ }
