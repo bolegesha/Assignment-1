@@ -170,7 +170,7 @@ body {
 .table__name {
     font-size: 30px;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-top: 5px;
 
 }
 
@@ -198,8 +198,9 @@ body {
 }
 
 .actform {
-    padding-top: 85px;
+    padding-top: 65px;
     width: auto;
+    border-color: #c4c4c4  white transparent;
 }
 
 
@@ -213,4 +214,10 @@ body {
     width: 100%;
     max-width: 1456px;
     padding: 35px 120px;
+}
+
+/* INPUT */
+
+.input {
+    width: 300px;
 }
